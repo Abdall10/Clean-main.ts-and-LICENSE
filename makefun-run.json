@@ -1,0 +1,12 @@
+{
+  "type": "makefun-run",
+  "version": 1,
+  "competition": "news-image-20261125",
+  "notes": "Simple entry: one image summarizing top world news of 25 November 2026 with focus on Pakistan first astronaut launch by China, Huawei conviction, new tariffs, Riyadh drone incident, and Ukraine energy strikes. Image created externally and copied by main.ts.",
+  "entry": {
+    "repo": "https://github.com/Abdall10/news-image-25nov2026",
+    "commit": "716f721dbbc6e41e5e29f997c043260893b252a1"
+  },
+  "harness": "manual",
+  "model": "external-image"
+}
